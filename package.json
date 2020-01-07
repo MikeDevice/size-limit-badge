@@ -1,0 +1,30 @@
+{
+  "name": "size-limit-badge",
+  "version": "1.0.0",
+  "description": "A badge for size-limit",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeDevice/size-limit-badge.git"
+  },
+  "keywords": [
+    "size",
+    "limit",
+    "badge"
+  ],
+  "author": "Mikhail Vyrodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeDevice/size-limit-badge/issues"
+  },
+  "homepage": "https://github.com/MikeDevice/size-limit-badge#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "nrun": "^1.0.0"
+  }
+}
